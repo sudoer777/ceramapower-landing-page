@@ -1,29 +1,17 @@
 [
   {
     "title": "High-capaticy",
-    "description": "CeramaPower batteries hold up to twice as much power as standard lithium-ion batteries. https://cleantechnica.com/2021/05/30/ceramic-based-solid-state-ev-batteries-these-are-the-questions-we-still-need-to-answer/",
-    "image": {
-      "url": "images/features/noun_branding_1885335.svg",
-      "width": 80,
-      "height": 80
-    }
+    "description": "CeramaPower batteries hold up to 2x the power of standard lithium-ion batteries.",
+    "source": "https://cleantechnica.com/2021/05/30/ceramic-based-solid-state-ev-batteries-these-are-the-questions-we-still-need-to-answer/"
   },
   {
     "title": "Fast-charging",
-    "description": "Using solid-state technology, CeramaPower batteries are capable of up to 17x higher charging rates without degration. https://ceramics.org/ceramic-tech-today/ceramic-electrolyte-in-lithium-batteries-offers-twice-the-performance-prevents-dendrite-formation",
-    "image": {
-      "url": "images/features/noun_The Process_1885341.svg",
-      "width": 80,
-      "height": 80
-    }
+    "description": "Using solid-state technology, CeramaPower batteries are capable of up to 17x higher charging rates without degration.",
+    "source": "https://ceramics.org/ceramic-tech-today/ceramic-electrolyte-in-lithium-batteries-offers-twice-the-performance-prevents-dendrite-formation"
   },
   {
     "title": "Long-lasting",
-    "description": "We stay up to date on the latest changes to the tax code.",
-    "image": {
-      "url": "images/features/noun_3d modeling_1885342.svg",
-      "width": 80,
-      "height": 80
-    }
+    "description": "CeramaPower batteries have proven to degrade much slower than alternative battery technologies.",
+    "source": "https://ceramics.org/ceramic-tech-today/ceramic-electrolyte-in-lithium-batteries-offers-twice-the-performance-prevents-dendrite-formation"
   }
 ]

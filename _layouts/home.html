@@ -24,7 +24,7 @@ bodyClass: "page-home"
 <div class="strip">
   <div class="container pt-6 pb-6 pb-md-10">
     {% for feature in site.data.features %}
-      <div class="col-12 col-md-4 mb-1">
+      <div class="pb-6">
         <div class="service service-summary">
           <div class="service-content">
             <h2 class="service-title">
@@ -35,6 +35,9 @@ bodyClass: "page-home"
           {% if feature.image %}
           <div class="feature-image"><img alt="{{ feature.title }} logo" src="{{ feature.image.url | relative_url }}" width="{{ feature.image.width }}" height="{{ feature.image.height }}" /></div>
           {% endif %}
+          <div class="small">
+            <small>Source: <a href="{{ feature.source }}">{{ feature.source }}</a></small>
+          </div>
         </div>
       </div>
       {% endfor %}
