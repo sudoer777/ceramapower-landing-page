@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="458.87604mm"
+   width="484.27603mm"
    height="63.752827mm"
-   viewBox="0 0 458.87604 63.752827"
+   viewBox="0 0 484.27604 63.752827"
    version="1.1"
    id="svg17164"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
@@ -24,7 +24,7 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="0.18836245"
-     inkscape:cx="-103.52382"
+     inkscape:cx="-7.9633708"
      inkscape:cy="339.77049"
      inkscape:window-width="1920"
      inkscape:window-height="1018"
@@ -42,15 +42,15 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-36.060078,-48.027081)">
+     transform="translate(-10.660063,-48.027081)">
     <path
        style="fill:#141414;fill-opacity:1;stroke:#000000;stroke-width:0.0929388px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 45.68766,111.69158 25.48601,0.0418 C 74.490688,100.24492 81.288124,93.815527 81.157702,77.382012 82.194409,65.488938 74.145837,57.843085 70.639902,48.073621 l -24.099406,0.05209 C 44.050768,58.174376 34.856966,65.315346 36.249173,77.677747 36.083556,89.41698 42.537115,100.35463 45.68766,111.69158 Z"
+       d="m 20.287645,111.69158 25.48601,0.0418 C 49.090673,100.24492 55.888109,93.815527 55.757687,77.382012 56.794394,65.488938 48.745822,57.843085 45.239887,48.073621 l -24.099406,0.05209 C 18.650753,58.174376 9.4569516,65.315346 10.849158,77.677747 10.683541,89.41698 17.1371,100.35463 20.287645,111.69158 Z"
        id="path21273"
        sodipodi:nodetypes="ccccccc" />
     <path
        style="fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:0.0929388px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 54.387881,105.6182 59.950235,81.375439 44.044709,81.215909 61.518493,54.602634 57.115886,74.435495 72.273127,75.02405 Z"
+       d="M 28.987866,105.6182 34.55022,81.375439 18.644694,81.215909 36.118478,54.602634 31.715871,74.435495 46.873112,75.02405 Z"
        id="path22110" />
     <text
        xml:space="preserve"
