@@ -8,6 +8,10 @@ bodyClass: "page-home"
     <div class="row justify-content-start">
       <div class="col-12 col-md-7 col-lg-6 order-2 order-md-1">
         {{ content }}
+        <div>
+          <a href="about"><button type="button" class="btn btn-light">Learn More</button></a>
+          <a href="#contact"><button type="button" class="btn btn-primary">Contact Us</button></a>
+        </div>
         <!--{% if page.show_call_box %}
           {% include call.html show_button=true %}
         {% endif %}-->
@@ -22,9 +26,10 @@ bodyClass: "page-home"
 </div>
 
 <div class="strip">
-  <div class="container pt-6 pb-6 pb-md-10">
+  <div class="container pt-4 pb-6 pb-md-3">
+    <h1 class="pb-2">Why Ceramapower?</h1>
     {% for feature in site.data.features %}
-      <div class="pb-6">
+      <div class="pb-4">
         <div class="service service-summary">
           <div class="service-content">
             <h2 class="service-title">
@@ -45,26 +50,13 @@ bodyClass: "page-home"
   </div>
 </div>
 
-<!--
-{% if site.data.features %}
-<div class="strip strip-grey">
-  <div class="container pt-6 pb-6 pt-md-10 pb-md-10">
-    <div class="row justify-content-center">
-
-      {% for feature in site.data.features %}
-      <div class="col-12 col-md-6 col-lg-4 mb-2">
-        <div class="feature">
-          {% if feature.image %}
-          <div class="feature-image"><img alt="{{ feature.title }} logo" src="{{ feature.image.url | relative_url }}" width="{{ feature.image.width }}" height="{{ feature.image.height }}" /></div>
-          {% endif %}
-          <h2 class="feature-title">{{ feature.title }}</h2>
-          <div class="feature-content">{{ feature.description }}</div>
-        </div>
-      </div>
-      {% endfor %}
-
-    </div>
+<div class="strip strip-grey align-center" id="contact">
+  <div class="container pt-4 pb-25 pb-md-10 text-center">
+    <h1 class="">Contact Us</h1>
+    <p class="pb-1">Interested in CeramaPower? We're excited to help you achieve your laptop power needs!</p>
+    <p class="pb-1"><a href="mailto:{{ .site.data.contact.email }}"><button type="button" class="btn btn-primary">Contact Us</button></a></p>
+    <p>Email: <a href="mailto:{{ .site.data.contact.email }}">
+      {{ site.data.contact.email }}
+    </a></p>
   </div>
 </div>
-{% endif %}
--->
