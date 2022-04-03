@@ -7,9 +7,6 @@ main:
     weight: 2
 
 footer:
-  - name: "Home"
-    url: "/"
+  - name: "Credits"
+    url: "/credits"
     weight: 1
-  - name: "Contact"
-    url: "/contact/"
-    weight: 2
