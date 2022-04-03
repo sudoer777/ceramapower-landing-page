@@ -9,7 +9,7 @@ We're tired of dealing with short battery life on laptops, so we created a new b
 
 # How it works
 
-Currently, most laptop batteries use lithium-ion. Lithium-ion batteries work by storing charges in lithium atoms. As a lithium-ion battery discharges, these electrons leave the lithium atoms, "ionizing" them. These lithium ions move through a separator within the battery and recombine with electrons to recharge.[^1] (, add pic)
+Currently, most laptop batteries use lithium-ion. Lithium-ion batteries work by storing charges in lithium atoms. As a lithium-ion battery discharges, these electrons leave the lithium atoms, "ionizing" them. These lithium ions move through a separator within the battery and recombine with electrons to recharge.[^1]
 
 [^1]: Source: [https://www.cei.washington.edu/education/science-of-solar/battery-technology/](https://www.cei.washington.edu/education/science-of-solar/battery-technology/)
 
