@@ -39,4 +39,4 @@ As new battery technologies are being developed for products such as electric ve
 
 In a survey we conducted on Facebook with 49 participants, we found that 51% of our participants had issues with laptop battery life. Of these participants, the majority on average did not use their laptops unplugged for greater than two hours at a time. The rest, except for one, did not use their laptops unplugged for greater than four hours at a time.
 
-Based on this information, it was clear that the laptop battery needed to be improved. With CeramaPower, we see a future where laptop users can focus on the important parts of life for several hours at a time without worrying about running out of battery.
+Based on this information, it was clear that the laptop battery needed to be improved. Because of this, we created CeramaPower. With CeramaPower, we see a future where laptop users can focus on the important parts of life for several hours at a time without worrying about running out of battery.
